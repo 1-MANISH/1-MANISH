@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Manish</h1>
 <h3 align="center">Hi, I am Manish . I was student of computer science at Vit , Vellore . I am passionate about programming and web development .</h3>
 
+<img align="right width="400" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1-manish&label=Profile%20views&color=0e75b6&style=flat" alt="1-manish" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1-manish" alt="1-manish" /></a> </p>
