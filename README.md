@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manish</h1>
 <h3 align="center">Hi, I am Manish . I was student of computer science at Vit , Vellore . I am passionate about programming and web development .</h3>
-
-<img align="right width="400" alt="Programmer Image" src="https://raw.githubusercontent.com/andreapollastri/andreapollastri/main/intro.gif">
+<img  src="https://raw.githubusercontent.com/andreapollastri/andreapollastri/main/intro.gif" align="right width="400" alt="Programmer Image" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1-manish&label=Profile%20views&color=0e75b6&style=flat" alt="1-manish" /> </p>
 
