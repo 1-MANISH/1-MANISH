@@ -27,7 +27,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/hi, i am manish . i 'm student of computer science at vit , vellore . i am passionate about programming and web development ." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hi, i am manish . i 'm student of computer science at vit , vellore . i am passionate about programming and web development ." height="30" width="40" /></a>
+<a href="https://linkedin.com/in/manish-patidar-726670213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manish-patidar-726670213" height="30" width="40" /></a>
 <a href="https://instagram.com/manishpatidar938" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manishpatidar938" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/easytocodebymanish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="easytocodebymanish" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/manish_patidar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="manish_patidar" height="30" width="40" /></a>
