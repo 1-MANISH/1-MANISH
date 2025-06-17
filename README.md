@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1-manish" alt="1-manish" /></a> </p>
 
-- 🔭 I've previously worked as a **Software Engineer Intern at [Microsoft] and [Philips].**
+- 🔭 I've previously worked as a **Software Engineer Intern** at [Microsoft] and [Philips].
 
 - 🔭 I’m currently working on **A Subscription based Web Platform where admins can upload their course and anyone who have subscription can watch**
 
