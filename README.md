@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Manish</h1>
-<h3 align="center">Full Stack Developer passionate about building scalable, user-centric web applications. Experienced working with Microsoft and Philips and Cold Pressery . Skilled in end-to-end product development, from design to deployment. I am passionate about programming and web development .</h3>
+<h4 align="center">Full Stack Developer passionate about building scalable, user-centric web applications. Experienced working with Microsoft and Philips and Cold Pressery , Mercor . Skilled in end-to-end product development, from design to deployment. I am passionate about programming and web development .</h4>
 <img  src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGdkcThici0wOWNjN2FkNi1hMDIxLTQ3YTUtYjBlMC05MTdiMTJiMGY3YTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tqRMtE-b2QiI2nnefNxSDMJvZCcYqFmq2ccg_Xfzqb8" align="center"  width="100%" alt="Programmer Image" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1-manish&label=Profile%20views&color=0e75b6&style=flat" alt="1-manish" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1-manish" alt="1-manish" /></a> </p>
 
-- 🌱 I’m currently working with **Mercor** as **Software Engineer - jst**.
+- 🌱 I’m recently worked with **Mercor** as **Software Engineer - jst**.
 
 - 🔭 I've previously worked as a **Software Engineer Intern** at [Microsoft](https://www.microsoft.com/en-in/) and [Philips](https://www.philips.co.in/) and With [Cold Pressery](https://www.coldpressery.in/) as **Full Stack Developer**.
 
 - 🔭 I’m currently working on **A Subscription based Web Platform where admins can upload their course and anyone who have subscription can watch**
 
-- 🌱 I’m currently learning **Next Js**
+- 🌱 I’m currently learning **Next Js + Advanced DSA**
 
 - 👯 I’m looking to collaborate on **Mern Stack Projects**
 
@@ -26,7 +26,7 @@
 
 - 📫 How to reach me **shanimpatidar@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1yzZhGIcMgB94m4iqKLKpktSW6aKadssv/view?usp=sharing](https://drive.google.com/file/d/1MHoC0tbVuoWDcx4JFW6r43ML8kFFe3tB/view?usp=sharing)]
+- 📄 Know about my experiences [[Resume](https://drive.google.com/file/d/1MHoC0tbVuoWDcx4JFW6r43ML8kFFe3tB/view)]
 
 - ⚡ Fun fact **I'm sports lover ,use to play cricket + volleyball .**
 
