@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1-manish" alt="1-manish" /></a> </p>
 
-- 🌱 I’m recently worked with **Mercor** as **Software Engineer - jst**.
+- 🌱 I recently worked with **Mercor** as **Software Engineer - jst**.
 
 - 🔭 I've previously worked as a **Software Engineer Intern** at [Microsoft](https://www.microsoft.com/en-in/) and [Philips](https://www.philips.co.in/) and With [Cold Pressery](https://www.coldpressery.in/) as **Full Stack Developer**.
 
