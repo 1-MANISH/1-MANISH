@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **A Subscription based Web Platform where admins can upload their course and anyone who have subscription can watch**
 
-- 🌱 I’m currently learning **Next Js + Advanced DSA**
+- 🌱 I’m currently learning **Blockchain + Next Js + Advanced DSA**
 
 - 👯 I’m looking to collaborate on **Mern Stack Projects**
 
