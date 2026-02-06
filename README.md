@@ -41,6 +41,7 @@
 <a href="https://www.hackerearth.com/@shanimpatidar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@shanimpatidar" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/user/shanimpatidar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="user/shanimpatidar" height="30" width="40" /></a>
   <a href="https://codolio.com/profile/manish_patidar" target="blank"><img align="center" src="https://codolio.com/codolio_assets/codolio.svg" alt="user/shanimpatidar" height="30" width="40" /></a>
+  <a href="https://codeforces.com/profile/https://codeforces.com/profile/manish_patidar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/manish_patidar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
