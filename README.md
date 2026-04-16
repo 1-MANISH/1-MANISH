@@ -31,7 +31,7 @@
 - ⚡ Fun fact **I'm sports lover ,use to play cricket + volleyball , so I'm chill person**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left flex gap-3">
 <a href="https://linkedin.com/in/manish-patidar-726670213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manish-patidar-726670213" height="30" width="40" /></a>
 <a href="https://instagram.com/manishpatidar938" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manishpatidar938" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/easytocodebymanish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="easytocodebymanish" height="30" width="40" /></a>
